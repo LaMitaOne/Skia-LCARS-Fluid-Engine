@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2026.07.31 12:24:43.720,=C:\Users\Lenovo\Documents\Embarcadero\Studio\Projekte\Unit2.pas</Transaction>
+    <Transaction>2026.07.31 12:24:56.521,=C:\Users\Lenovo\Documents\Embarcadero\Studio\Projekte\Unit1.pas</Transaction>
+    <Transaction>2026.07.31 12:25:18.854,C:\Users\Lenovo\Downloads\SkiaLCARS_FluidEngine\SkiaLCARS_FluidEngine.pas=C:\Users\Lenovo\Documents\Embarcadero\Studio\Projekte\Unit1.pas</Transaction>
+    <Transaction>2026.07.31 12:25:24.212,C:\Users\Lenovo\Downloads\SkiaLCARS_FluidEngine\Unit2.pas=C:\Users\Lenovo\Documents\Embarcadero\Studio\Projekte\Unit2.pas</Transaction>
+    <Transaction>2026.07.31 12:25:24.212,C:\Users\Lenovo\Downloads\SkiaLCARS_FluidEngine\Unit2.fmx=C:\Users\Lenovo\Documents\Embarcadero\Studio\Projekte\Unit2.fmx</Transaction>
+    <Transaction>2026.07.31 12:25:27.412,C:\Users\Lenovo\Downloads\SkiaLCARS_FluidEngine\Project2.dproj=C:\Users\Lenovo\Documents\Embarcadero\Studio\Projekte\Project2.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
