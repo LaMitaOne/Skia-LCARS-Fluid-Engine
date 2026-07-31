@@ -1,5 +1,8 @@
 # Skia-LCARS-Fluid-Engine
-An experimental, high-performance LCARS UI rendering engine for Delphi FMX, built natively on Skia4Delphi.
+An experimental, high-performance LCARS UI rendering engine for Delphi FMX, built natively on Skia4Delphi.    
+
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/LaMitaOne/Skia-LCARS-Fluid-Engine)    
+
    
 <img width="1233" height="687" alt="Unbenannt" src="https://github.com/user-attachments/assets/67d82d64-0d35-4677-abcb-eb44c7d734ae" />
     
