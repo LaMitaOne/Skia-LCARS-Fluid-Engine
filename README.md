@@ -5,9 +5,11 @@ Could not resist to try lcars too. Its not fully original style, but still looki
     
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/LaMitaOne/Skia-LCARS-Fluid-Engine)    
 
-   
-<img width="1233" height="687" alt="Unbenannt" src="https://github.com/user-attachments/assets/67d82d64-0d35-4677-abcb-eb44c7d734ae" />
-    
+Sample vide: https://youtu.be/pv75NqcYfc0    
+        
+
+ <img width="360" height="202" alt="axul9r" src="https://github.com/user-attachments/assets/8aad1ec9-4ccd-44d2-be09-4c1c891ebd3a" />
+
  🚀 Features    
    
     Multi-threaded Render Loop: Update and draw logic is handled in a background thread with adaptive sleep cycles to save CPU when idle.    
